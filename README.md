@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @devsTZ
 - 👀 I’m interested in coding and desiging
-- 🌱 I’m currently learning PHP 
+- 🌱 I’m currently learning Dart & Flutter
 - 💞️ I’m looking to collaborate on fontend and Backend project
 - 📫 How to reach me.
-- +255 769657633
+- <a href="https://twitter.com/rogasiani_">rogasian_</a>
 - Tanzania.
 
 <!---
